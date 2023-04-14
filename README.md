@@ -1,22 +1,16 @@
-# jd2-section1-project
+# UpSchool-JavaDeveloperProgram-section1-project
 
 
-## Bir film kütüphanesi projesi yazınız. 
-
-1. **Film sınıfı**: Her bir film için bir Film sınıfı oluşturun. Bu sınıf, filmin id'sini, filmin başlığını, yönetmenini, oyuncularını, tarihini, açıklamasını, türünü  içermelidir.
-2. **Kullanıcı sınıfı**: Her bir kullanıcı için bir Kullanıcı sınıfı oluşturun. Bu sınıf, kullanıcı id'sini, kullanıcının adını, şifresini, e-posta adresini içermelidir.
-3. **Film yöneticisi**:  Film sınıfını kullanarak film eklemek, film silmek, film aramak vb. işlemler yapabilecek bir Film Yöneticisi sınıfı oluşturun.
-4. **Kullanıcı yöneticisi**:  Kullanıcı sınıfını kullanarak kullanıcı hesapları oluşturmak, kullanıcı hesaplarını silmek, kullanıcıları aramak vb. işlemler yapabilecek bir Kullanıcı Yöneticisi sınıfı oluşturun.
-5. **Ana menü**: Kullanıcıların filmleri arayabilecekleri, filmleri listelebilecekleri ve kullanıcı hesaplarını yönetebilecekleri bir ana menü oluşturun. Bu menü, kullanıcı girişi ve çıkışı, film ekleme, film silme, film arama, kullanıcı hesapları oluşturma, kullanıcı hesaplarını silme, kullanıcı hesapları arama işlemlerini içermelidir.
+## This Section-1 project, which includes fundamentals of Java, was given by UP School Java Developer Program.  Instructions were:
 
 
+**Film class**: Create a film class for each movie. This class should include the Id of the film, the title of the film, the director, the actors, the date, the description.
+**User class**: Create a user class for each user. This class must contain the user id, the user's name, password, email address.
+**Film manager**: Using the Film class, create a Film Manager class that can do things like add, delete, search for movies, and so on.
+**User manager**: Create a User Manager class that can use the User class to create user accounts, delete user accounts, search for users, and so on.
+**Main menu**: Create a main menu where users can search for movies, list movies, and manage user accounts. This menu should include user input and exit, adding movies, deleting movies, searching for movies, creating user accounts, deleting user accounts, searching for user accounts.
 
-Dikkat edilmesi gerekenler:
+**Note**: 
+Do not include a structure that we have not used so far in the project.
 
-- Gerekli gördüğünüz yerde sınıf içerisine çok fazla olmamak şartıyla variable eklemesi yapabilirsiniz.
-- Variable, Class vb isimlendirmelerinde Türkçe kelimeler kullanmayın. İsimlendirme kurallarına dikkat edin.
-- CodeStyle (Gereksiz kod satırları vb.), ilgili IDE için internette code formatting shortcut arayarak kısayolu bulabilirsiniz.
-- Gereksiz nesne referansı oluşturmaktan kaçının, 1 kez kullanabileceğiniz bir Scanner sınıfını bir for içerisinde sürekli initialize etmeyin.
-- Şimdiye kadar kullanmadığımız bir yapıyı projeye dahil etmeyin.
 
-09.03.2023 23:00 a kadar vaktiniz vardır. Birbirinizden yardım alabilirsiniz fakat bire bir aynı kodları göndermeyin.
