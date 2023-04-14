@@ -15,6 +15,6 @@
 - **Main menu**: Create a main menu where users can search for movies, list movies, and manage user accounts. This menu should include user input and exit, adding movies, deleting movies, searching for movies, creating user accounts, deleting user accounts, searching for user accounts.
 
 **Note**: 
-Do not include a structure that we have not used so far in the project.
+Do not include a structure that we have not used so far in the program.
 
 
